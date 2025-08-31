@@ -1,2 +1,2 @@
-# assets
-Modenyania's assets
+# icon
+Modenyania's icon
